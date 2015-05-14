@@ -1,0 +1,22 @@
+/* Sample Template from Sitepoint*/
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Put Title Here</title>
+  <meta name="description" content="content">
+  <meta name="author" content="content">
+
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <script src="js/scripts.js"></script>
+</body>
+</html>
